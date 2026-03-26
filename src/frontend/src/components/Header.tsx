@@ -13,11 +13,11 @@ export function Header() {
           >
             <img
               src="/assets/generated/fox-mascot-transparent.dim_120x120.png"
-              alt="MathQuest Fox"
+              alt="Numbrex Fox"
               className="w-10 h-10 object-contain group-hover:scale-110 transition-transform"
             />
             <span className="text-cream font-nunito font-900 text-xl tracking-tight">
-              Math<span className="text-brand-orange">Quest</span>
+              Numb<span className="text-brand-orange">rex</span>
             </span>
           </Link>
 
